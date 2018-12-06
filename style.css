@@ -1,0 +1,70 @@
+body {
+    background-color: #841D2B  
+}
+
+#main {
+    width: 1000px;
+    height: 600px;
+    margin:
+    border:
+}
+
+header {
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+h1, p {
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+	color: #F7F7F7  
+}
+
+h2 {
+	text-align: center;
+	font-family: 'Patrick Hand', cursive;
+	color: #F7F7F7
+}
+
+footer {
+	text-align: center;
+	color: white;
+}
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #691621;
+	font-family: 'Architects Daughter', cursive;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Add an active class to highlight the current page */
+.active {
+    background-color: #a82435;
+    color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+    display: none;
+}
